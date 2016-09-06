@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dt" value="name:bidang_kode;datatype:string,name:bidang_nama;datatype:string" />
+	<infoitem key="UD_RecSiswa" value="name:siswa_NISN;datatype:string,name:kompetensi_kode;datatype:string,name:siswa_nama;datatype:string,name:siswa_alamat;datatype:string,name:siswa_tgl_lahir;datatype:date,name:siswa_foto;datatype:blob" />
+	<infoitem key="UD_RecGuru" value="name:guru_kode;datatype:string,name:kompetensi_kode;datatype:string,name:guru_NIP;datatype:string,name:guru_nama;datatype:string,name:guru_alamat;datatype:string,name:guru_telpon;datatype:string" />
+	<infoitem key="UD_RecSK" value="name:sk_kode;datatype:string,name:kompetensi_kode;datatype:string,name:sk_nama;datatype:string,name:sk_kelas;datatype:blob" />
+</info>

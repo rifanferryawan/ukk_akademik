@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kk" value="name:kompetensi_kode;datatype:string,name:bidang_kode;datatype:string,name:kompetensi_nama;datatype:string" />
+	<infoitem key="UD_dt" value="name:guru_kode;datatype:string,name:kompetensi_kode;datatype:string,name:guru_NIP;datatype:string,name:guru_nama;datatype:string,name:guru_alamat;datatype:string,name:guru_telpon;datatype:string" />
+</info>

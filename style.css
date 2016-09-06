@@ -1,0 +1,183 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:0px;
+	width:100%;
+	background:#CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+}
+a{
+	text-decoration:none;
+}
+
+/*header*/
+#header{
+	background:#0066FF;
+	padding:20px 0px 7px 0px;
+	width:100%;
+	color:#FFFFFF;
+}
+#header .isi{
+	width:900px;
+	margin:auto auto;
+	text-transform:uppercase;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+
+/*menu atas*/
+#menua{
+	background:#eee;
+	padding:7px 0px;
+	width:100%;
+	color:#333333;
+}
+#menua .isi{
+	width:900px;
+	margin:auto auto;
+	font-size:12px;
+}
+#menua .isi ul{
+	margin:0px;
+	margin-left:-40px;
+	list-style:none;
+}
+#menua .isi li{
+	display:inline-block;
+	padding-right:25px;
+}
+#menua a{
+	color:#333333;
+	text-transform:capitalize;
+}
+#menua a:hover{
+	text-decoration:underline;
+}
+
+/*konten/isi*/
+#konten{
+	width:900px;
+	margin:7px auto;
+}
+#konten .isi{
+	float:left;
+	width:880px;
+	background:#FFFFFF;
+	padding:10px;
+	border-radius:3px;
+}
+/*menu sebalah kiri*/
+#menu{
+	width:190px;
+	float:left;
+	padding-left:10px;
+	padding-right:10px;
+	color:#666;
+	font-size:12px;
+}
+#menu ul{
+	margin-left:-40px;
+	list-style:none;
+}
+#menu ul li{
+	padding:8px 0px;
+	text-transform:uppercase;
+	border-bottom:thin;
+	border-bottom-style:solid;
+}
+#menu a{
+	color:#0066FF;
+}
+#menu a:hover{
+	color:#FF9900;
+}
+#menu h3{
+	color:#0066FF;
+}
+/*isi sebelah kanan*/
+#isi{
+	width:640px;
+	float:right;
+	padding-left:20px;
+	padding-bottom:20px;
+	margin-right:5px;
+	border:thin;
+	border-left-color:#999;
+	border-left-style:solid;
+	min-height:400px;
+	color:#666;
+	font-size:12px;
+}
+#isi a{
+	color:#0066FF;
+}
+#isi a:hover{
+	color:#FF9900;
+}
+#isi h3{
+	margin-top:10px;
+	padding-bottom:10px;
+	//border:thin;
+	border-bottom-color:#CCC;
+	border-bottom-style:double;
+	color:#333;
+}
+#isi .crf{
+	float:right;
+}
+/* untuk page numbering*/
+#isi .pgnum{
+	width:150px;
+}
+/*akhir numbering*/
+#isi table{
+	width:100%;
+	border-collapse:collapse;
+}
+#isi table tr th{
+	background:#0066FF;
+	color:#FFFFFF;
+	height:30px;
+	padding:5px;
+}
+#isi table .ket{
+	width:140px;
+}
+#isi table tr td{
+	padding:5px;
+}
+#isi table tr td a{
+	padding:0px 5px;
+}
+#isi input[type="text"],#isi input[type="password"]{
+	width:200px;
+	height:20px;
+	margin-bottom:5px;
+	background:#ddd;
+	border:none;
+	padding:3px 10px;
+}
+#isi input[type="submit"]{
+	background:#0066FF;
+	color:#FFFFFF;
+	border:none;
+	border-radius:5px;
+	padding:3px 15px;
+}
+
+/*footer*/
+#footer{
+	clear:both;
+	padding-top:5px;
+	width:100%;
+}
+#footer .isi{
+	background:#0066FF;
+	width:900px;
+	height:30px;
+	text-align:center;
+	color:#FFFFFF;
+	padding-top:10px;
+	margin:auto auto;
+	font-size:12px;
+}

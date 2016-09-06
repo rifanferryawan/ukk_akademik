@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dt" value="name:kompetensi_kode;datatype:string,name:bidang_kode;datatype:string,name:kompetensi_nama;datatype:string" />
+	<infoitem key="UD_bs" value="name:bidang_kode;datatype:string,name:bidang_nama;datatype:string" />
+</info>

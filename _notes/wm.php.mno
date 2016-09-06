@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dt" value="name:wali_id;datatype:string,name:siswa_NISN;datatype:string,name:wali_nama_ayah;datatype:string,name:wali_pekerjaan_ayah;datatype:string,name:wali_nama_ibu;datatype:string,name:wali_pekerjaan_ibu;datatype:string,name:wali_alamat;datatype:string,name:wali_telpon;datatype:string" />
+</info>

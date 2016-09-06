@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dt" value="name:siswa_NISN;datatype:string,name:kompetensi_kode;datatype:string,name:siswa_nama;datatype:string,name:siswa_alamat;datatype:string,name:siswa_tgl_lahir;datatype:date,name:siswa_foto;datatype:blob" />
+</info>

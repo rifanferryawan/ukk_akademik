@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kk" value="name:kompetensi_kode;datatype:string,name:bidang_kode;datatype:string,name:kompetensi_nama;datatype:string" />
+	<infoitem key="UD_dt" value="name:siswa_NISN;datatype:string,name:guru_kode;datatype:string,name:sk_kode;datatype:string,name:nilai_angka;datatype:real,name:nilai_huruf;datatype:string" />
+	<infoitem key="UD_sw" value="name:siswa_NISN;datatype:string,name:kompetensi_kode;datatype:string,name:siswa_nama;datatype:string,name:siswa_alamat;datatype:string,name:siswa_tgl_lahir;datatype:date,name:siswa_foto;datatype:blob" />
+	<infoitem key="UD_gr" value="name:guru_kode;datatype:string,name:kompetensi_kode;datatype:string,name:guru_NIP;datatype:string,name:guru_nama;datatype:string,name:guru_alamat;datatype:string,name:guru_telpon;datatype:string" />
+	<infoitem key="UD_sk" value="name:sk_kode;datatype:string,name:kompetensi_kode;datatype:string,name:sk_nama;datatype:string,name:sk_kelas;datatype:blob" />
+</info>
